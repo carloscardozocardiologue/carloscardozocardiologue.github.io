@@ -9,8 +9,8 @@
   <DefaultLocale>fr-FR</DefaultLocale>
   <DisplayName DefaultValue="CardioSoft"/>
   <Description DefaultValue="CardioSoft Word Add-in."/>
-  <IconUrl DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/blob/a6fcae1d0fde924641f5a3555e58bd6cfc3740ee/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/blob/a6fcae1d0fde924641f5a3555e58bd6cfc3740ee/assets/icon-64.png"/>
+  <IconUrl DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/icon-64.png"/>
   <SupportUrl DefaultValue="https://learn.microsoft.com/office/dev/add-ins/overview/office-add-in-code-samples"/>
   <AppDomains>
     <AppDomain>"https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/blob/a6fcae1d0fde924641f5a3555e58bd6cfc3740ee"</AppDomain>
@@ -64,9 +64,9 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/blob/a6fcae1d0fde924641f5a3555e58bd6cfc3740ee/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/blob/a6fcae1d0fde924641f5a3555e58bd6cfc3740ee/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/blob/a6fcae1d0fde924641f5a3555e58bd6cfc3740ee/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://github.com/carloscardozocardiologue/carloscardozocardiologue.github.io/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="http://go.microsoft.com/fwlink/?LinkId=276812"/>
